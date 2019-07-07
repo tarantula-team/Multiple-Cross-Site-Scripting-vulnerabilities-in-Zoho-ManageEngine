@@ -1,6 +1,6 @@
-# Zoho-ManageEngine-XSS
+# Multiple Cross-Site Scripting vulnerabilities in Zoho ManageEngine
 
-Zoho ManageEngine ServiceDesk Plus and AssetExplorer Cross-Site Scripting (XSS) Vulnerability
+Multiple Cross-Site Scripting vulnerabilities in Zoho ManageEngine ServiceDesk Plus and Zoho ManageEngine AssetExplorer
 
 **Researcher: Enter of The Tarantula Team, VinCSS (a member of Vingroup)**
  
